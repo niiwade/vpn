@@ -3,6 +3,6 @@
 </script>
 
 <svelte:head>
-  <title>Salvia-kit Dashboard v7 with Svelte-kit</title>
+  <title>HitVPN Dashboard</title>
 </svelte:head>
 <Content title="Average Protection"/>
