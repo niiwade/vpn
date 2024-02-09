@@ -5,4 +5,4 @@
 <svelte:head>
   <title>Salvia-kit Dashboard v7 with Svelte-kit</title>
 </svelte:head>
-<Content title="Home"/>
+<Content title="Average Protection"/>

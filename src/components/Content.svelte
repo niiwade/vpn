@@ -12,18 +12,10 @@
 					<div class="flex items-center justify-between px-4 py-6 space-x-4">
 						<div class="flex items-center">
 							<span class="rounded-full relative p-5 bg-yellow-100">
-								<svg
-									width="40"
-									fill="currentColor"
-									height="40"
-									class="text-yellow-500 h-5 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
-									viewBox="0 0 1792 1792"
-									xmlns="http://www.w3.org/2000/svg"
-								>
-									<path
-										d="M1362 1185q0 153-99.5 263.5t-258.5 136.5v175q0 14-9 23t-23 9h-135q-13 0-22.5-9.5t-9.5-22.5v-175q-66-9-127.5-31t-101.5-44.5-74-48-46.5-37.5-17.5-18q-17-21-2-41l103-135q7-10 23-12 15-2 24 9l2 2q113 99 243 125 37 8 74 8 81 0 142.5-43t61.5-122q0-28-15-53t-33.5-42-58.5-37.5-66-32-80-32.5q-39-16-61.5-25t-61.5-26.5-62.5-31-56.5-35.5-53.5-42.5-43.5-49-35.5-58-21-66.5-8.5-78q0-138 98-242t255-134v-180q0-13 9.5-22.5t22.5-9.5h135q14 0 23 9t9 23v176q57 6 110.5 23t87 33.5 63.5 37.5 39 29 15 14q17 18 5 38l-81 146q-8 15-23 16-14 3-27-7-3-3-14.5-12t-39-26.5-58.5-32-74.5-26-85.5-11.5q-95 0-155 43t-60 111q0 26 8.5 48t29.5 41.5 39.5 33 56 31 60.5 27 70 27.5q53 20 81 31.5t76 35 75.5 42.5 62 50 53 63.5 31.5 76.5 13 94z"
-									/>
-								</svg>
+							
+								<svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M11.5 9.00011L10 12.0001H14L12.5 15.0001M20 12.0001C20 16.4612 14.54 19.6939 12.6414 20.6831C12.4361 20.7901 12.3334 20.8436 12.191 20.8713C12.08 20.8929 11.92 20.8929 11.809 20.8713C11.6666 20.8436 11.5639 20.7901 11.3586 20.6831C9.45996 19.6939 4 16.4612 4 12.0001V8.21772C4 7.4182 4 7.01845 4.13076 6.67482C4.24627 6.37126 4.43398 6.10039 4.67766 5.88564C4.9535 5.64255 5.3278 5.50219 6.0764 5.22146L11.4382 3.21079C11.6461 3.13283 11.75 3.09385 11.857 3.07839C11.9518 3.06469 12.0482 3.06469 12.143 3.07839C12.25 3.09385 12.3539 3.13283 12.5618 3.21079L17.9236 5.22146C18.6722 5.50219 19.0465 5.64255 19.3223 5.88564C19.566 6.10039 19.7537 6.37126 19.8692 6.67482C20 7.01845 20 7.4182 20 8.21772V12.0001Z" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+									</svg>
 							</span>
 							<p
 								class="text-sm text-gray-700 ml-2 font-semibold border-b border-gray-200"
@@ -34,8 +26,8 @@
 						<div
 							class="border-b border-gray-200 mt-6 md:mt-0 text-black font-bold text-xl"
 						>
-							$44,453.39
-							<span class="text-xs text-gray-400">/$100K</span>
+						75%
+						
 						</div>
 					</div>
 					<div class="w-full h-3 bg-gray-100">
@@ -53,65 +45,25 @@
 			</div>
 			<div class="w-1/2">
 				<div class="shadow-lg px-4 py-6 w-full bg-white relative">
-					<p class="text-2xl text-black font-bold">$93.76</p>
-					<p class="text-gray-400 text-sm">Commission in approval</p>
-					<span class="rounded-full absolute p-4 bg-purple-500 top-2 right-4">
-						<svg
-							width="40"
-							fill="currentColor"
-							height="40"
-							class="text-white h-4 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
-							viewBox="0 0 1792 1792"
-							xmlns="http://www.w3.org/2000/svg"
-						>
-							<path
-								d="M1362 1185q0 153-99.5 263.5t-258.5 136.5v175q0 14-9 23t-23 9h-135q-13 0-22.5-9.5t-9.5-22.5v-175q-66-9-127.5-31t-101.5-44.5-74-48-46.5-37.5-17.5-18q-17-21-2-41l103-135q7-10 23-12 15-2 24 9l2 2q113 99 243 125 37 8 74 8 81 0 142.5-43t61.5-122q0-28-15-53t-33.5-42-58.5-37.5-66-32-80-32.5q-39-16-61.5-25t-61.5-26.5-62.5-31-56.5-35.5-53.5-42.5-43.5-49-35.5-58-21-66.5-8.5-78q0-138 98-242t255-134v-180q0-13 9.5-22.5t22.5-9.5h135q14 0 23 9t9 23v176q57 6 110.5 23t87 33.5 63.5 37.5 39 29 15 14q17 18 5 38l-81 146q-8 15-23 16-14 3-27-7-3-3-14.5-12t-39-26.5-58.5-32-74.5-26-85.5-11.5q-95 0-155 43t-60 111q0 26 8.5 48t29.5 41.5 39.5 33 56 31 60.5 27 70 27.5q53 20 81 31.5t76 35 75.5 42.5 62 50 53 63.5 31.5 76.5 13 94z"
-							/>
-						</svg>
+					<p class="text-2xl text-black font-bold">10</p>
+					<p class="text-gray-400 text-sm">Issues</p>
+					<span class="rounded-full absolute p-4 bg-red-500 top-2 right-4">
+						<svg fill="#000000" width="20px" height="20px" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" class="icon">
+							<path d="M464 688a48 48 0 1 0 96 0 48 48 0 1 0-96 0zm72-112c4.4 0 8-3.6 8-8V296c0-4.4-3.6-8-8-8h-48c-4.4 0-8 3.6-8 8v272c0 4.4 3.6 8 8 8h48zm400-188h-59.3c-2.6 0-5 1.2-6.5 3.3L763.7 538.1l-49.9-68.8a7.92 7.92 0 0 0-6.5-3.3H648c-6.5 0-10.3 7.4-6.5 12.7l109.2 150.7a16.1 16.1 0 0 0 26 0l165.8-228.7c3.8-5.3 0-12.7-6.5-12.7zm-44 306h-64.2c-5.5 0-10.6 2.9-13.6 7.5a352.2 352.2 0 0 1-49.8 62.2A355.92 355.92 0 0 1 651.1 840a355 355 0 0 1-138.7 27.9c-48.1 0-94.8-9.4-138.7-27.9a355.92 355.92 0 0 1-113.3-76.3A353.06 353.06 0 0 1 184 650.5c-18.6-43.8-28-90.5-28-138.5s9.4-94.7 28-138.5c17.9-42.4 43.6-80.5 76.4-113.2 32.8-32.7 70.9-58.4 113.3-76.3a355 355 0 0 1 138.7-27.9c48.1 0 94.8 9.4 138.7 27.9 42.4 17.9 80.5 43.6 113.3 76.3 19 19 35.6 39.8 49.8 62.2 2.9 4.7 8.1 7.5 13.6 7.5H892c6 0 9.8-6.3 7.2-11.6C828.8 178.5 684.7 82 517.7 80 278.9 77.2 80.5 272.5 80 511.2 79.5 750.1 273.3 944 512.4 944c169.2 0 315.6-97 386.7-238.4A8 8 0 0 0 892 694z"/>
+						  </svg>
 					</span>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="flex items-center space-x-4">
-		<button
-			class="flex items-center text-gray-400 text-md border-gray-300 border px-4 py-2 rounded-tl-sm rounded-bl-full rounded-r-full"
-		>
-			<svg
-				width="20"
-				height="20"
-				fill="currentColor"
-				class="mr-2 text-gray-400"
-				viewBox="0 0 1792 1792"
-				xmlns="http://www.w3.org/2000/svg"
-			>
-				<path
-					d="M192 1664h288v-288h-288v288zm352 0h320v-288h-320v288zm-352-352h288v-320h-288v320zm352 0h320v-320h-320v320zm-352-384h288v-288h-288v288zm736 736h320v-288h-320v288zm-384-736h320v-288h-320v288zm768 736h288v-288h-288v288zm-384-352h320v-320h-320v320zm-352-864v-288q0-13-9.5-22.5t-22.5-9.5h-64q-13 0-22.5 9.5t-9.5 22.5v288q0 13 9.5 22.5t22.5 9.5h64q13 0 22.5-9.5t9.5-22.5zm736 864h288v-320h-288v320zm-384-384h320v-288h-320v288zm384 0h288v-288h-288v288zm32-480v-288q0-13-9.5-22.5t-22.5-9.5h-64q-13 0-22.5 9.5t-9.5 22.5v288q0 13 9.5 22.5t22.5 9.5h64q13 0 22.5-9.5t9.5-22.5zm384-64v1280q0 52-38 90t-90 38h-1408q-52 0-90-38t-38-90v-1280q0-52 38-90t90-38h128v-96q0-66 47-113t113-47h64q66 0 113 47t47 113v96h384v-96q0-66 47-113t113-47h64q66 0 113 47t47 113v96h128q52 0 90 38t38 90z"
-				/>
-			</svg>
-			Last month
-			<svg
-				width="20"
-				height="20"
-				class="ml-2 text-gray-400"
-				fill="currentColor"
-				viewBox="0 0 1792 1792"
-				xmlns="http://www.w3.org/2000/svg"
-			>
-				<path
-					d="M1408 704q0 26-19 45l-448 448q-19 19-45 19t-45-19l-448-448q-19-19-19-45t19-45 45-19h896q26 0 45 19t19 45z"
-				/>
-			</svg>
-		</button>
-		<span class="text-sm text-gray-400"> Compared to oct 1- otc 30, 2020 </span>
-	</div>
+	
 	<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 my-4">
 		<div class="w-full">
 			<div class="shadow-lg px-4 py-6 w-full bg-white relative">
 				<p
 					class="text-sm w-max text-gray-700 font-semibold border-b border-gray-200"
 				>
-					Project Referred
+					VPN Connections
 				</p>
 				<div class="flex items-end space-x-2 my-6">
 					<p class="text-5xl text-black font-bold">12</p>
@@ -135,7 +87,7 @@
 					<div
 						class="flex items-center pb-2 mb-2 text-sm sm:space-x-12  justify-between border-b border-gray-200"
 					>
-						<p>Unique URL</p>
+						<p>US</p>
 						<div class="flex items-end text-xs">
 							34
 							<span class="flex items-center">
@@ -158,7 +110,7 @@
 					<div
 						class="flex items-center mb-2 pb-2 text-sm space-x-12 md:space-x-24 justify-between border-b border-gray-200"
 					>
-						<p>Embedded form</p>
+						<p>Canada</p>
 						<div class="flex items-end text-xs">
 							13
 							<span class="flex items-center">
@@ -179,7 +131,7 @@
 						</div>
 					</div>
 					<div class="flex items-center text-sm space-x-12 md:space-x-24 justify-between">
-						<p>New visitor</p>
+						<p>Europe</p>
 						<div class="flex items-end text-xs">
 							45
 							<span class="flex items-center">
@@ -207,7 +159,7 @@
 				<p
 					class="text-sm w-max text-gray-700 font-semibold border-b border-gray-200"
 				>
-					Project Paid
+					Average Sessions
 				</p>
 				<div class="flex items-end space-x-2 my-6">
 					<p class="text-5xl text-black font-bold">23</p>
@@ -231,7 +183,7 @@
 					<div
 						class="flex items-center pb-2 mb-2 text-sm space-x-12 md:space-x-24 justify-between border-b border-gray-200"
 					>
-						<p>User paid</p>
+						<p>Daily</p>
 						<div class="flex items-end text-xs">
 							21
 							<span class="flex items-center">
@@ -254,7 +206,7 @@
 					<div
 						class="flex items-center mb-2 pb-2 text-sm space-x-12 md:space-x-24 justify-between border-b border-gray-200"
 					>
-						<p>Income</p>
+						<p>Weekly</p>
 						<div class="flex items-end text-xs">
 							10
 							<span class="flex items-center">
@@ -275,7 +227,7 @@
 						</div>
 					</div>
 					<div class="flex items-center text-sm space-x-12 md:space-x-24 justify-between">
-						<p>Royal tees</p>
+						<p>Monthly</p>
 						<div class="flex items-end text-xs">
 							434
 							<span class="flex items-center">
@@ -303,7 +255,7 @@
 				<p
 					class="text-sm w-max text-gray-700 font-semibold border-b border-gray-200"
 				>
-					New features
+					Connections
 				</p>
 				<div class="flex items-end space-x-2 my-6">
 					<p class="text-5xl text-black font-bold">12</p>
@@ -399,7 +351,7 @@
 				<p
 					class="text-sm w-max text-gray-700 font-semibold border-b border-gray-200"
 				>
-					Sign in
+					Antivirus Issues
 				</p>
 				<div class="flex items-end space-x-2 my-6">
 					<p class="text-5xl text-black font-bold">16</p>
@@ -495,7 +447,7 @@
 				<p
 					class="text-sm w-max text-gray-700 font-semibold border-b border-gray-200"
 				>
-					Sales
+					Devices
 				</p>
 				<div class="flex items-end space-x-2 my-6">
 					<p class="text-5xl text-black font-bold">9</p>
@@ -519,7 +471,7 @@
 					<div
 						class="flex items-center pb-2 mb-2 text-sm space-x-12 md:space-x-24 justify-between border-b border-gray-200"
 					>
-						<p>Templates</p>
+						<p>Andriod</p>
 						<div class="flex items-end text-xs">
 							345
 							<span class="flex items-center">
@@ -542,7 +494,7 @@
 					<div
 						class="flex items-center mb-2 pb-2 text-sm space-x-12 md:space-x-24 justify-between border-b border-gray-200"
 					>
-						<p>Components</p>
+						<p>MacOs</p>
 						<div class="flex items-end text-xs">
 							139
 							<span class="flex items-center">
@@ -563,7 +515,7 @@
 						</div>
 					</div>
 					<div class="flex items-center text-sm space-x-12 md:space-x-24 justify-between">
-						<p>Icons</p>
+						<p>Ios</p>
 						<div class="flex items-end text-xs">
 							421
 							<span class="flex items-center">
